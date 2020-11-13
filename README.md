@@ -21,3 +21,5 @@ The LSTM model performed better than the traditional RNN and time series MLR in 
 # Summary
 This repository contains the source code used for data gathering, data cleaning, data analysis, model training and testing. It focuses on the LSTM model, which is one of the more commonly used machine learning model for sequential time series data. The plots of the predicted against real stock prices are also included. 
 
+# Libraries
+* Keras, Tensorflow
